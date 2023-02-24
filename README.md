@@ -3,6 +3,12 @@
 <h1> Welcome !! </h1>
 <h2> Let's get into my journey !!</h2>
 
-<p align="center">
-  <img src="https://github.com/Yashasvi-30/Yashasvi-30/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+- uses: Platane/snk@v2
+  with:
+
+    Yashasvi-30: ${{ github.repository_owner}}
+
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
