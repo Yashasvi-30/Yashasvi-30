@@ -3,7 +3,7 @@
 <h1> Welcome !! </h1>
 <h2> Let's get into my journey !!</h2>
 
-## GitHub Statistics :
+<h1>GitHub Statistics :</h1>
 
 <img alt= "stats card" height="300px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical">
 
