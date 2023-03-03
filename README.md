@@ -2,12 +2,13 @@
 
 <h1> Welcome !! </h1>
 <h2> Let's get into my journey !!</h2>
-
+<p>
 📍Lucknow , UP - Dehradun , UK <br></br>
-🏛️Freshman at University of Petroleum and Energy Studies
+🏛️Freshman at University of Petroleum and Energy Studies<br></br>
+📞Contact Me :<br></br>
 
-
-<h1>GitHub Statistics :</h1>
+</p>
+<h1> ⚙️GitHub Statistics :</h1>
 <p>
 <img alt= "stats card" height="180px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical">
 
