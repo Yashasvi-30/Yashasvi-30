@@ -10,6 +10,4 @@ How can you find me ?
 
   
 <img alt= "stats card" height="300px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical">
-<img align="right" height="450" width="500" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> 
-
 <img height="300px" width="500" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true" />
