@@ -9,7 +9,7 @@ How can you find me ?
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <a align= "center" href="https://github.com/Yashasvi-30">
   
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img alt= "stats card" height="300px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical">
+<img align="right" height="450" width="500" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true" />
+<img height="300px" width="500" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true" />
