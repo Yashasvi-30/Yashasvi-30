@@ -9,5 +9,5 @@
 
 <img height="180px" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashasvi-30&theme=radical&layout=compact&exclude_lang=java+r" />
 
-<img alt="Stats " height="200px" width="500" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true" >
+<img alt="Stats " height="190px" width="500" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true" >
 
