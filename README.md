@@ -3,6 +3,9 @@
 <h1> Welcome !! </h1>
 <h2> Let's get into my journey !!</h2>
 
+📍Lucknow , UP - Dehradun , UK <br></br>
+🏛️Freshman at University of Petroleum and Energy Studies
+
 
 <h1>GitHub Statistics :</h1>
 <p>
