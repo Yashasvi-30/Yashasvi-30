@@ -5,8 +5,7 @@
 <p>
 📍Lucknow , UP - Dehradun , UK <br></br>
 🏛️Freshman at University of Petroleum and Energy Studies<br></br>
-📞Contact Me :<br></br>
-
+Progressing everyday 
 </p>
 <h1> ⚙️GitHub Statistics :</h1>
 <p>
