@@ -30,6 +30,7 @@ Hi, I'm Yashasvi Gupta, a passionate Computer Science student with a strong enth
   <img alt="Top Languages" height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashasvi-30&theme=radical&layout=compact&exclude_lang=java+r">
   <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true">
 </p>
+
 ---
 
 ## 📬 Connect with Me
