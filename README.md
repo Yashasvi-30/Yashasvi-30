@@ -45,6 +45,12 @@ Hi, I'm Yashasvi Gupta, a passionate Computer Science student with a strong enth
   <a href="https://peerlist.io/yashasvii">
     <img alt="Peerlist" src="https://img.shields.io/badge/Peerlist-000000?style=flat&logo=peerlist&logoColor=white" height="30">
   </a>
+   <a href="mailto:yashasvi30gupta@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30">
+  </a>
+  <a href="https://twitter.com/yashasviig">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30">
+  </a>
 </p>
 
 ---
