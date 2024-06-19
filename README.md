@@ -1,29 +1,49 @@
-### Hey Everyone! 🌙
 
-<h1> Welcome !! </h1>
-<h2> Let's get into my journey !!</h2>
-<p>
-📍Lucknow , UP - Dehradun , UK <br></br>
-🏛️Freshman at University of Petroleum and Energy Studies<br></br>
-Progressing everyday 
+---
+
+# Hey Everyone! 🌙
+
+## Welcome !!
+
+### Let's get into my journey!
+
+📍 **Location:** Lucknow, UP - Dehradun, UK  
+🏛️ **Education:**  University of Petroleum and Energy Studies  
+🚀 **Ambition:** Progressing every day towards becoming a tech innovator.
+
+## 🚀 About Me
+
+Hi, I'm Yashasvi Gupta, a passionate Computer Science student with a strong enthusiasm for technology, software development, and problem-solving. I am dedicated to continuous learning and excited about contributing to impactful projects.
+
+## 🛠️ Skills
+
+- **Programming Languages:** Java, Python, C, C++
+- **Web Development:** HTML, CSS, JavaScript, AngularJS, Node.js
+- **Database Management:** SQL, MongoDB
+- **Tools & Software:** MS Office Suite, Canva, Figma (UI/UX)
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img alt="GitHub Streak" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical">
+  <img alt="Top Languages" height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashasvi-30&theme=radical&layout=compact&exclude_lang=java+r">
+  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashasvi-30&label=Profile%20views&color=0e75b6&style=flat" alt="yashasvi-30" /> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashasviig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashasviig" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashasvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashasvi" height="30" width="40" /></a>
-<a href="https://instagram.com/yashasvi._30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashasvi._30" height="30" width="40" /></a>
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashasvii">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30">
+  </a>
+  <a href="https://github.com/Yashasvi-30">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="30">
+  </a>
+  <a href="https://peerlist.io/yashasvii">
+    <img alt="Peerlist" src="https://img.shields.io/badge/Peerlist-000000?style=flat&logo=peerlist&logoColor=white" height="30">
+  </a>
 </p>
 
-
-
-<h1> ⚙️GitHub Statistics :</h1>
-<p>
-<img alt= "stats card" height="180px" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical">
-
-<img height="180px" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashasvi-30&theme=radical&layout=compact&exclude_lang=java+r" />
-
-<img alt="Stats " height="190px" width="500" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true" >
-
-</p>
+---
