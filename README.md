@@ -17,7 +17,7 @@ Hi, I'm Yashasvi Gupta, a passionate Computer Science student with a strong enth
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Java, Python, C, C++
+- **Programming Languages:** Java, Python, C, C++ with dsa in java
 - **Web Development:** HTML, CSS, JavaScript, AngularJS, Node.js
 - **Database Management:** SQL, MongoDB
 - **Tools & Software:** MS Office Suite, Canva, Figma (UI/UX)
