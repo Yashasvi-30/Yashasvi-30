@@ -5,7 +5,7 @@
 
 ## Welcome !!
 
-### Let's get into my journey!
+### Let's get into my journey in github !
 
 📍 **Location:** Lucknow, UP - Dehradun, UK  
 🏛️ **Education:**  University of Petroleum and Energy Studies  
